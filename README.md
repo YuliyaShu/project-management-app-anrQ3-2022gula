@@ -1,3 +1,10 @@
+1. [Final task during RSSchool (EPAM) Angular course Q3 2022](https://github.com/rolling-scopes-school/js-fe-course-en/blob/main/tasks/angular/project-management-system.md)
+2. Screenshot: 
+![image](https://user-images.githubusercontent.com/48655896/204141729-6d786f67-c2e0-4676-b496-261863d1edeb.png)
+3. [Deploy link](https://p-management.netlify.app/welcome)
+4. Done 27.11.2022/ Deadline 27.11.2022
+
+
 # ProjectApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
